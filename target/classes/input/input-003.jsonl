@@ -1,0 +1,4 @@
+{ "id": "9", "userId": "75", "city": "Kyiv", "eventType": "click", "timestamp": 123434, "eventSubject": { "type": "article", "id": "1" } }
+{ "id": "10", "userId": "72", "city": "Lviv", "eventType": "click", "timestamp": 123434, "eventSubject": { "type": "article", "id": "1" } }
+{ "id": "11", "userId": "75", "city": "Kyiv", "eventType": "click", "timestamp": 123434, "eventSubject": { "type": "article", "id": "1" } }
+{ "id": "12", "userId": "76", "city": "Odesa", "eventType": "click", "timestamp": 123434, "eventSubject": { "type": "article", "id": "1" } }
